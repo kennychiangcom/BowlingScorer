@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScoreCalculator", "BowlingScoreCalculator\BowlingScoreCalculator.csproj", "{3BC32B9C-A6B8-4D00-BBB5-A9E794CBD001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScoreCalculator.Tests", "BowlingScoreCalculator.Tests\BowlingScoreCalculator.Tests.csproj", "{3A06D26A-D24F-4484-BF08-A24A30ED1AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC32B9C-A6B8-4D00-BBB5-A9E794CBD001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC32B9C-A6B8-4D00-BBB5-A9E794CBD001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC32B9C-A6B8-4D00-BBB5-A9E794CBD001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC32B9C-A6B8-4D00-BBB5-A9E794CBD001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A06D26A-D24F-4484-BF08-A24A30ED1AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A06D26A-D24F-4484-BF08-A24A30ED1AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A06D26A-D24F-4484-BF08-A24A30ED1AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A06D26A-D24F-4484-BF08-A24A30ED1AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
